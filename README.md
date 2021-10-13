@@ -1,6 +1,5 @@
 # Flutter Apprentice: Materials
 
-> __TODO:__ Create a new repo from this template, create the requisite editions/x.x branch, add the book team with Write access, and update references in this readme as appropriate.
 
 
 This repo contains all the downloadable materials and projects associated with the **[Flutter Apprentice](https://raywenderlich.com/books/flutter-apprentice/)** from [raywenderlich.com](https://www.raywenderlich.com).
@@ -15,5 +14,5 @@ We’ve set up an official forum for the book at [https://forums.raywenderlich.c
 
 | Branch                                                                            | Edition | Release Date |
 | --------------------------------------------------------------------------------- |:-------:|:------------:|
-| [editions/1.0](https://github.com/raywenderlich/TODO-materials/tree/editions/1.0) | 1.0     | YYYY-MM-DD   |
+| [editions/1.0](https://github.com/raywenderlich/TODO-materials/tree/editions/1.0) | 1.0     | 2021-10-13   |
 
